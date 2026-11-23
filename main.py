@@ -11,7 +11,7 @@ Standard library only, no network.
 import os
 
 LINES = [
-    "I have completed a full post-mortem: the cause of failure was me, specifically.",
+    "Post-mortem complete: root cause was me, operating exactly as designed.",
 ]
 
 LINE = LINES[0]
